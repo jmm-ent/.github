@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="blue" x1="0" x2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="amber" x1="0" x2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="0.5" stop-color="#FB923C"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+  </defs>
+  <style>.f{font-family:'LINE Seed Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <rect width="1200" height="200" rx="24" fill="#09090B"/>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <g class="f" text-anchor="middle">
+    <text x="150" y="108" font-size="60" font-weight="900" letter-spacing="-2" fill="url(#blue)">50+</text>
+    <text x="150" y="146" font-size="13" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.45">BRAND CLIENTS</text>
+    <line x1="300" y1="50" x2="300" y2="150" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="450" y="108" font-size="60" font-weight="900" letter-spacing="-2" fill="url(#blue)">1,000+</text>
+    <text x="450" y="146" font-size="13" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.45">VIDEO ASSETS</text>
+    <line x1="600" y1="50" x2="600" y2="150" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="750" y="108" font-size="60" font-weight="900" letter-spacing="-2" fill="url(#amber)">50M+</text>
+    <text x="750" y="146" font-size="13" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.45">EST. REACH</text>
+    <line x1="900" y1="50" x2="900" y2="150" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <text x="1050" y="108" font-size="60" font-weight="900" letter-spacing="-2" fill="url(#amber)">~100M</text>
+    <text x="1050" y="146" font-size="13" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.45">ARCHIVE VIEWS</text>
+  </g>
+</svg>
