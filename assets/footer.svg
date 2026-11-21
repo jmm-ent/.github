@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="amber" x1="0" x2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="0.5" stop-color="#FB923C"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.7"><stop offset="0" stop-color="#F59E0B" stop-opacity="0.18"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>.f{font-family:'LINE Seed Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif}</style>
+  <rect width="1200" height="280" rx="24" fill="#09090B"/>
+  <rect width="1200" height="280" rx="24" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <g class="f" text-anchor="middle">
+    <text x="600" y="112" font-size="68" font-weight="900" letter-spacing="-2" fill="#FFFFFF">From One Room.</text>
+    <text x="600" y="186" font-size="68" font-weight="900" letter-spacing="-2" fill="url(#amber)">To An Empire.</text>
+    <text x="600" y="240" font-size="13" font-weight="700" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.35">JMM ENTERTAINMENT LTD. · BANGKOK, THAILAND</text>
+  </g>
+</svg>
