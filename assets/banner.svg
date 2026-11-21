@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+  <defs>
+    <linearGradient id="blue" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.35"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="1" r="0.5">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity="0.12"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <style>
+    .f{font-family:'LINE Seed Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif}
+  </style>
+  <rect width="1200" height="440" rx="24" fill="#09090B"/>
+  <rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="440" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="440" rx="24" fill="url(#glow2)"/>
+  <rect x="0.5" y="0.5" width="1199" height="439" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <rect x="64" y="60" width="200" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.03" stroke="#FFFFFF" stroke-opacity="0.15"/>
+  <circle cx="86" cy="77" r="4" fill="#22C55E"/>
+  <text x="100" y="82" class="f" font-size="14" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.75">EST. 2020 · BKK</text>
+  <line x1="282" y1="64" x2="282" y2="90" stroke="#FFFFFF" stroke-opacity="0.15"/>
+  <text x="300" y="82" class="f" font-size="14" font-weight="700" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.35">SOFTWARE · AI · MEDIA</text>
+
+  <text x="60" y="210" class="f" font-size="112" font-weight="900" letter-spacing="-3" fill="#FFFFFF">JMM</text>
+  <text x="60" y="320" class="f" font-size="112" font-weight="900" letter-spacing="-3" fill="url(#blue)">Entertainment.</text>
+
+  <text x="64" y="378" class="f" font-size="21" fill="#FFFFFF" fill-opacity="0.55">High-performance digital infrastructure and creative production</text>
+  <text x="64" y="406" class="f" font-size="21" fill="#FFFFFF" fill-opacity="0.55">for the entertainment industry. Straightforward solutions.</text>
+</svg>
