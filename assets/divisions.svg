@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs><linearGradient id="blue" x1="0" x2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+<linearGradient id="amber" x1="0" x2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="0.5" stop-color="#FB923C"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+<style>.f{font-family:'LINE Seed Sans','Inter','Segoe UI',Helvetica,Arial,sans-serif}</style>
+<g transform="translate(0,0)">
+<rect width="576" height="260" rx="22" fill="#111115"/>
+<rect x="0.5" y="0.5" width="575" height="259" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="36" y="0" width="80" height="3" fill="url(#blue)"/>
+<text x="36" y="52" class="f" font-size="13" font-weight="700" letter-spacing="3" fill="url(#blue)">01 · TECH &amp; DEVOPS</text>
+<text x="36" y="104" class="f" font-size="32" font-weight="900" letter-spacing="-1" fill="#FFFFFF">Custom software, end to end.</text>
+<text x="36" y="150" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">Booking engines, ERP/POS systems and</text>
+<text x="36" y="178" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">creator platforms for real businesses.</text>
+<line x1="36" y1="208" x2="540" y2="208" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="36" y="236" class="f" font-size="12" font-weight="700" letter-spacing="2.5" fill="#FFFFFF" fill-opacity="0.35">LOMPRAYAH · SITT TEXTILE · ICONNECT</text>
+</g>
+<g transform="translate(624,0)">
+<rect width="576" height="260" rx="22" fill="#111115"/>
+<rect x="0.5" y="0.5" width="575" height="259" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="36" y="0" width="80" height="3" fill="url(#blue)"/>
+<text x="36" y="52" class="f" font-size="13" font-weight="700" letter-spacing="3" fill="url(#blue)">02 · AI CANNY SYSTEM</text>
+<text x="36" y="104" class="f" font-size="32" font-weight="900" letter-spacing="-1" fill="#FFFFFF">Our in-house AI layer.</text>
+<text x="36" y="150" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">Chains AI tools to automate back-office</text>
+<text x="36" y="178" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">work, and powers the AI in our sites.</text>
+<line x1="36" y1="208" x2="540" y2="208" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="36" y="236" class="f" font-size="12" font-weight="700" letter-spacing="2.5" fill="#FFFFFF" fill-opacity="0.35">AUTOMATION · AI FEATURES</text>
+</g>
+<g transform="translate(0,300)">
+<rect width="576" height="260" rx="22" fill="#111115"/>
+<rect x="0.5" y="0.5" width="575" height="259" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="36" y="0" width="80" height="3" fill="url(#amber)"/>
+<text x="36" y="52" class="f" font-size="13" font-weight="700" letter-spacing="3" fill="url(#amber)">03 · LIVE &amp; MEDIA</text>
+<text x="36" y="104" class="f" font-size="32" font-weight="900" letter-spacing="-1" fill="#FFFFFF">Production at scale.</text>
+<text x="36" y="150" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">Multi-cam, multi-platform live streaming,</text>
+<text x="36" y="178" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">video, photo and short-form content.</text>
+<line x1="36" y1="208" x2="540" y2="208" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="36" y="236" class="f" font-size="12" font-weight="700" letter-spacing="2.5" fill="#FFFFFF" fill-opacity="0.35">LIVE COMMERCE · VIDEO · TIKTOK</text>
+</g>
+<g transform="translate(624,300)">
+<rect width="576" height="260" rx="22" fill="#111115"/>
+<rect x="0.5" y="0.5" width="575" height="259" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="36" y="0" width="80" height="3" fill="url(#amber)"/>
+<text x="36" y="52" class="f" font-size="13" font-weight="700" letter-spacing="3" fill="url(#amber)">04 · SONIC LABS</text>
+<text x="36" y="104" class="f" font-size="32" font-weight="900" letter-spacing="-1" fill="#FFFFFF">Sound, built for short-form.</text>
+<text x="36" y="150" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">Jingles and tracks for TikTok, Reels and</text>
+<text x="36" y="178" class="f" font-size="19" fill="#FFFFFF" fill-opacity="0.55">Shorts. 8+ viral tracks and counting.</text>
+<line x1="36" y1="208" x2="540" y2="208" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="36" y="236" class="f" font-size="12" font-weight="700" letter-spacing="2.5" fill="#FFFFFF" fill-opacity="0.35">MUSIC · JINGLES · AUDIO</text>
+</g>
+</svg>
