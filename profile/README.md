@@ -1,129 +1,152 @@
-<!-- JMM Entertainment — GitHub organization profile -->
-<!-- Place this file at:  jmm-ent/.github/profile/README.md  -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060608,50:0B1A3A,100:C9A24B&height=220&section=header&text=JMM%20ENTERTAINMENT&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Innovation%20Meets%20Artistry&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="JMM Entertainment" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060608,60:0B1A3A,100:1E3A8A&height=180&text=JMM%20ENTERTAINMENT&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=%2F%2F%20Software%20%C2%B7%20AI%20%C2%B7%20Media%20Infrastructure&descSize=16&descAlign=50&descAlignY=72" width="100%" alt="JMM Entertainment" />
 
 <a href="https://jmmentertainment.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=C9A24B&center=true&vCenter=true&width=600&lines=From+One+Room.+To+An+Empire.;Straightforward+solutions.+Professional+execution.;Crafting+the+future%2C+beautifully.;Mission+Status%3A+Operational+%E2%97%8F" alt="Typing slogans" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=%24+git+push+origin+main;%24+deploy+--env+production+%E2%9C%93;%3E+Straightforward+solutions.+Professional+execution.;%3E+Mission+Status%3A+Operational+%E2%97%8F" alt="terminal" />
 </a>
 
 <br/>
 
-<a href="https://jmmentertainment.com"><img src="https://img.shields.io/badge/Website-jmmentertainment.com-060608?style=for-the-badge&logo=googlechrome&logoColor=C9A24B" /></a>
-<img src="https://img.shields.io/badge/Based%20in-Bangkok%20%F0%9F%87%B9%F0%9F%87%AD-060608?style=for-the-badge&labelColor=0B1A3A" />
-<img src="https://img.shields.io/badge/Since-2020-060608?style=for-the-badge&labelColor=0B1A3A" />
+<a href="https://jmmentertainment.com"><img src="https://img.shields.io/badge/jmmentertainment.com-0B1A3A?style=flat-square&logo=googlechrome&logoColor=38BDF8" /></a>
+<img src="https://img.shields.io/badge/HQ-Bangkok%2C%20TH-0B1A3A?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/est.-2020-0B1A3A?style=flat-square&logo=git&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/status-operational-22C55E?style=flat-square" />
+
+</div>
+
+<br/>
+
+```ts
+const jmm = {
+  company:   "JMM Entertainment Ltd.",
+  formerly:  "JMM Studio",
+  hq:        "Bangkok, Thailand",
+  builds:    ["custom software", "AI automation", "media infrastructure"],
+  for:       "the entertainment industry and the businesses around it",
+  motto:     "Straightforward solutions. Professional execution.",
+};
+```
+
+---
+
+## ⚙️ What we engineer
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Tech &amp; DevOps
+Full‑stack product development, from database to deployment.
+Booking engines, ERP/POS systems, creator platforms and web apps for real businesses.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Canny System
+Our in‑house AI layer. It orchestrates several AI tools to automate back‑office operations, and it ships the AI features in our client sites.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Live &amp; Media Infrastructure
+Multi‑camera, multi‑platform live streaming, including live commerce. Production pipelines for video, photo and short‑form content at scale.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎛️ Sonic Labs
+Audio engineering and music production. Jingles, brand sound and short‑form tracks built for TikTok, Reels and Shorts.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Shipped
+
+| Project | What it is | Type |
+|:--|:--|:--:|
+| **Lomprayah** | Ferry ticket booking engine | `booking` `payments` |
+| **Sitt Textile** | ERP + point‑of‑sale system | `erp` `pos` |
+| **iConnect** | Creator platform | `platform` `creators` |
+| **Website Subscription** | Managed sites with booking and AI, from ฿4,500/mo | `saas` `ai` |
+
+---
+
+## 🏗️ How the pieces fit
+
+```mermaid
+flowchart LR
+    C([Client brief]) --> T[Tech & DevOps]
+    T --> W[Web apps · ERP · Booking]
+    T --> AI[AI Canny System]
+    AI --> OPS[Automated back office]
+    AI --> W
+    C --> M[Media & Live infra]
+    M --> S[Sonic Labs]
+    M --> D[Streams · Video · Short‑form]
+```
+
+---
+
+## 🧰 Stack
+
+<div align="center">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark" />
+
+**Backend &amp; Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,redis&theme=dark" />
+
+**Infra &amp; Delivery**<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,cloudflare,linux&theme=dark" />
 
 </div>
 
 ---
 
-### 👋 About us
+## 📈 Footprint
 
-**JMM Entertainment Ltd.** (formerly *JMM Studio*) builds **high‑performance digital infrastructure** and **creative production** for the entertainment industry.
-We're a Bangkok‑based team working where code, content and culture meet, with crews in **Bangkok · Songkhla · Satun · Pattaya**.
+<div align="center">
+
+| 🤝 Brand clients | 🎞️ Media assets | 📡 Est. reach | 🎵 Archive views | 📍 Locations |
+|:---:|:---:|:---:|:---:|:---:|
+| **50+** | **1,000+** | **50M+** | **~100M** | **BKK · Songkhla · Satun · Pattaya** |
+
+<sub>Trusted by teams at Lomprayah · Bitkub · PTT Group · Bright TV · Chulalongkorn University · Miss Grand Thailand · Big One Group · Hansar Samui · and more</sub>
+
+</div>
+
+---
+
+## 🧭 How we work
+
+- **Ship, then sharpen.** Working software in front of the client early, then iterate.
+- **Automate the boring parts.** If a task repeats, the AI Canny System should be doing it.
+- **Own it end to end.** Design, build, deploy and run, under one roof.
 
 > *Reputation precedes the pitch.*
 
 ---
 
-### 🏛️ Our divisions
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Tech &amp; DevOps</h4>
-      Custom software and full‑stack development for businesses: booking engines, ERP/POS systems and creator platforms.
-      <br/><br/>
-      <sub><b>Selected work:</b> Lomprayah ferry booking engine · Sitt Textile ERP/POS · iConnect creator platform</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Canny System</h4>
-      Our in‑house AI system. It chains several AI tools together to automate back‑office work, and it powers the AI features in our websites.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎧 Sonic Labs</h4>
-      Audio and music production: jingles, brand sound and short‑form tracks made for TikTok, Reels and Shorts.
-    </td>
-    <td width="50%" valign="top">
-      <h4>👑 Pageant &amp; Talent</h4>
-      Provincial directorship of <b>Miss Grand Songkhla &amp; Satun 2026</b>, plus sponsorships, media and talent management.
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎬 What we do
-
 <div align="center">
 
-![Live Streaming](https://img.shields.io/badge/Live%20Streaming-0B1A3A?style=flat-square&logo=youtube&logoColor=C9A24B)
-![Video Production](https://img.shields.io/badge/Video%20Production-0B1A3A?style=flat-square&logo=adobepremierepro&logoColor=C9A24B)
-![TikTok Content](https://img.shields.io/badge/TikTok%20Content-0B1A3A?style=flat-square&logo=tiktok&logoColor=C9A24B)
-![Photography](https://img.shields.io/badge/Photography-0B1A3A?style=flat-square&logo=canon&logoColor=C9A24B)
-![Music & Sound](https://img.shields.io/badge/Music%20%26%20Sound-0B1A3A?style=flat-square&logo=applemusic&logoColor=C9A24B)
-![Web Development](https://img.shields.io/badge/Web%20Development-0B1A3A?style=flat-square&logo=react&logoColor=C9A24B)
-![Event Organizing](https://img.shields.io/badge/Events%20%26%20Concerts-0B1A3A?style=flat-square&logo=eventbrite&logoColor=C9A24B)
-![Marketing](https://img.shields.io/badge/SEO%20%C2%B7%20SEM%20%C2%B7%20Marketing-0B1A3A?style=flat-square&logo=googleads&logoColor=C9A24B)
-![Graphic Design](https://img.shields.io/badge/Graphic%20Design-0B1A3A?style=flat-square&logo=adobeillustrator&logoColor=C9A24B)
+### 📬 Build with us
 
-</div>
-
-> 🆕 **Website Subscription**: a full website with booking and AI features, from **฿4,500 / month**.
-
----
-
-### 📊 By the numbers
-
-<div align="center">
-
-| 🎵 Archive views | 🔥 Viral tracks | 🤝 Brand clients | 🎞️ Video assets | 📡 Est. reach |
-|:---:|:---:|:---:|:---:|:---:|
-| **~100M** | **8+** | **50+** | **1,000+** | **50M+** |
-
-</div>
-
----
-
-### 🛠️ Tech we build with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,postgres,docker,githubactions,vercel&theme=dark" alt="Tech stack" />
-
-</div>
-
----
-
-### 🤝 Trusted by
-
-<div align="center">
-<sub>
-Lomprayah · Bitkub · PTT Group · Bright TV · Chulalongkorn University · Miss Grand Thailand · Big One Group · Bay Beach Resort · Hansar Samui · Mister Cosmopolitan · Nine Gems · Navakiri · Absolute Spa · and more
-</sub>
-</div>
-
----
-
-### 📬 Let's work together
-
-<div align="center">
-
-<a href="https://jmmentertainment.com"><img src="https://img.shields.io/badge/Website-060608?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://jmmentertainment.com"><img src="https://img.shields.io/badge/Website-060608?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
+<a href="mailto:center@jmmentertainment.com"><img src="https://img.shields.io/badge/Email-060608?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://lin.ee/w12sRT8"><img src="https://img.shields.io/badge/LINE-060608?style=for-the-badge&logo=line&logoColor=06C755" /></a>
 <a href="https://www.tiktok.com/@jmm_entertainment"><img src="https://img.shields.io/badge/TikTok-060608?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://www.instagram.com/jmm_.entertainment"><img src="https://img.shields.io/badge/Instagram-060608?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
 <a href="https://www.facebook.com/profile.php?id=61582297034083"><img src="https://img.shields.io/badge/Facebook-060608?style=for-the-badge&logo=facebook&logoColor=1877F2" /></a>
-<a href="https://lin.ee/w12sRT8"><img src="https://img.shields.io/badge/LINE-060608?style=for-the-badge&logo=line&logoColor=06C755" /></a>
-<a href="mailto:center@jmmentertainment.com"><img src="https://img.shields.io/badge/Email-060608?style=for-the-badge&logo=gmail&logoColor=C9A24B" /></a>
 
 <br/><br/>
 
-<sub>© JMM Entertainment Ltd. · Bangkok, Thailand</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A24B,50:0B1A3A,100:060608&height=110&section=footer" width="100%" />
+<sub><code>© JMM Entertainment Ltd. · Bangkok, Thailand</code></sub>
 
 </div>
